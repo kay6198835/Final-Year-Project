@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DungeonStart.unity
+    guid: 82e91358d12de1b4cb9bf69bfbd3c347
+  - enabled: 1
+    path: Assets/Scenes/DungeonEnd.unity
+    guid: 9efb08a8849016e4cb93107daddf86b8
+  - enabled: 1
+    path: Assets/Scenes/DungeonBasic1.unity
+    guid: b8cbccb11fb35374c8bf3f2cd2a80c65
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: f15cbd81ddc335342a80afe3715aa347
+  - enabled: 1
+    path: Assets/Scenes/DungeonBasic4.unity
+    guid: 76e138ad83a657d4b87eaecb58802d2a
+  - enabled: 1
+    path: Assets/Scenes/DungeonBasic3.unity
+    guid: c05bd960bd2c955448d2c800599bf8c9
+  - enabled: 1
+    path: Assets/Scenes/DungeonBasic2.unity
+    guid: 2edb7daf79aa7994b98fbc00a2c09acc
+  m_configObjects: {}
